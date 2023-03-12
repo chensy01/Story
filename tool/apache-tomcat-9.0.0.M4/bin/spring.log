@@ -1,0 +1,7 @@
+12:59:32,084 INFO  [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+12:59:32,242 INFO  [org.springframework.web.context.support.XmlWebApplicationContext] Refreshing Root WebApplicationContext: startup date [Sun Mar 12 12:59:32 CST 2023]; root of context hierarchy
+12:59:32,305 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from URL [file:/Users/momo/Downloads/tomcat9/apache-tomcat-9.0.0.M4/webapps/ROOT/WEB-INF/classes/spring-config.xml]
+12:59:32,452 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from class path resource [dubbo-consumer.xml]
+12:59:32,511 INFO  [com.alibaba.dubbo.common.logger.LoggerFactory] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+12:59:32,617 INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] Loading XML bean definitions from URL [jar:file:/Users/momo/Downloads/tomcat9/apache-tomcat-9.0.0.M4/webapps/ROOT/WEB-INF/lib/dubbo-api-1.0-SNAPSHOT.jar!/user-reference.xml]
+12:59:33,186 INFO  [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization completed in 1101 ms
